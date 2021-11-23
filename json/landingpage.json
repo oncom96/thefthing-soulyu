@@ -1,0 +1,234 @@
+{
+  "banner": [
+    {
+      "_id": "asd1111www1",
+      "name": "bannerlanding 1",
+      "imageUrl": "/dummybanner/banner.png"
+    },
+    {
+      "_id": "asd1111www2",
+      "name": "bannerlanding 2",
+      "imageUrl": "/dummybanner/banner.png"
+    },
+    {
+      "_id": "asd1111www3",
+      "name": "bannerlanding 3",
+      "imageUrl": "/dummybanner/banner.png"
+    },
+    {
+      "_id": "asd1111www4",
+      "name": "bannerlanding 4",
+      "imageUrl": "/dummybanner/banner.png"
+    },
+    {
+      "_id": "asd1111www5",
+      "name": "bannerlanding 5",
+      "imageUrl": "/dummybanner/banner.png"
+    }
+  ],
+  "featured": [
+    {
+      "_id": "asd1122eee1",
+      "title": "PONDATION",
+      "description": "Reveal healhty, youthful-looking lips minimizing the appearance of fine lines and wrinkles.",
+      "imageUrl": "/dummyfeatured/featured.png"
+    },
+    {
+      "_id": "asd1122eee2",
+      "title": "CONCENTRATE ON",
+      "description": "Reveal healhty, youthful-looking lips minimizing the appearance of fine lines and wrinkles.",
+      "imageUrl": "/dummyfeatured/featured.png"
+    },
+    {
+      "_id": "asd1122eee3",
+      "title": "PONDATION",
+      "description": "Reveal healhty, youthful-looking lips minimizing the appearance of fine lines and wrinkles.",
+      "imageUrl": "/dummyfeatured/featured.png"
+    },
+    {
+      "_id": "asd1122eee4",
+      "title": "CONCENTRATE ON",
+      "description": "Reveal healhty, youthful-looking lips minimizing the appearance of fine lines and wrinkles.",
+      "imageUrl": "/dummyfeatured/featured.png"
+    }
+  ],
+  "bestproduct": [
+    {
+      "_id": "asd1133fff1",
+      "name": "Eyes",
+      "items": [
+        {
+          "_id": "asd1133fff11",
+          "title": "SOMETHINC",
+          "description": "Niacinamide + Moisture Beet Serum (20 ml)",
+          "imageUrl": "/dummybest/best.png",
+          "rate": 5
+        },
+        {
+          "_id": "asd1133fff12",
+          "title": "LUXURIOUS",
+          "description": "Intensive Bright & Glow Serum",
+          "imageUrl": "/dummybest/best-2.png",
+          "rate": 4
+        },
+        {
+          "_id": "asd1133fff13",
+          "title": "LUXURIOUS",
+          "description": "Intensive Bright & Glow Serum",
+          "imageUrl": "/dummybest/best-2.png",
+          "rate": 4
+        },
+        {
+          "_id": "asd1133fff14",
+          "title": "SOMETHINC",
+          "description": "Niacinamide + Moisture Beet Serum (20 ml)",
+          "imageUrl": "/dummybest/best.png",
+          "rate": 3
+        },
+        {
+          "_id": "asd1133fff15",
+          "title": "LUXURIOUS",
+          "description": "Intensive Bright & Glow Serum",
+          "imageUrl": "/dummybest/best-2.png",
+          "rate": 4
+        },
+        {
+          "_id": "asd1133fff16",
+          "title": "LUXURIOUS",
+          "description": "Intensive Bright & Glow Serum",
+          "imageUrl": "/dummybest/best-2.png",
+          "rate": 4
+        },
+        {
+          "_id": "asd1133fff17",
+          "title": "SOMETHINC",
+          "description": "Niacinamide + Moisture Beet Serum (20 ml)",
+          "imageUrl": "/dummybest/best.png",
+          "rate": 3
+        }
+      ]
+    },
+    {
+      "_id": "asd1144ggg1",
+      "name": "Lips",
+      "items": [
+        {
+          "_id": "asd1144ggg11",
+          "title": "SOMETHINC BlOG",
+          "description": "Niacinamide + Moisture Beet Serum (20 ml)",
+          "imageUrl": "/dummybest/best-3.png",
+          "rate": 2
+        },
+        {
+          "_id": "asd1144ggg12",
+          "title": "LUXURIOUS Jancuk",
+          "description": "Intensive Bright & Glow Serum",
+          "imageUrl": "/dummybest/best.png",
+          "rate": 4
+        },
+        {
+          "_id": "asd1144ggg122",
+          "title": "LUXURIOUS Jancuk",
+          "description": "Intensive Bright & Glow Serum",
+          "imageUrl": "/dummybest/best.png",
+          "rate": 4
+        },
+        {
+          "_id": "asd1144ggg3",
+          "title": "FIRST LAB",
+          "description": "Probiotic Mask (1pc)",
+          "imageUrl": "/dummybest/best-2.png",
+          "rate": 3
+        },
+        {
+          "_id": "asd1144ggg14",
+          "title": "AVOSKIN",
+          "description": "Perfect Hydrating Treatment Essence 100ml",
+          "imageUrl": "/dummybest/best-3.png",
+          "rate": 3
+        }
+      ]
+    },
+    {
+      "_id": "asd1144ggg2",
+      "name": "Face",
+      "items": [
+        {
+          "_id": "asd1144ggg21",
+          "title": "SOMETHINC",
+          "description": "Niacinamide + Moisture Beet Serum (20 ml)",
+          "imageUrl": "/dummybest/best.png",
+          "rate": 4
+        },
+        {
+          "_id": "asd1144ggg22",
+          "title": "SOMETHINC",
+          "description": "Niacinamide + Moisture Beet Serum (20 ml)",
+          "imageUrl": "/dummybest/best-2.png",
+          "rate": 3
+        },
+        {
+          "_id": "asd1144ggg23",
+          "title": "LUXURIOUS",
+          "description": "Intensive Bright & Glow Serum",
+          "imageUrl": "/dummybest/best-3.png",
+          "rate": 4
+        },
+        {
+          "_id": "asd1144ggg24",
+          "title": "FIRST LAB",
+          "description": "Probiotic Mask (1pc)",
+          "imageUrl": "/dummybest/best.png",
+          "rate": 3
+        }
+      ]
+    }
+  ],
+  "testimony": [
+    {
+      "_id": "asd1144hhh3",
+      "name": "Merline Ramadhani",
+      "title": "First Lab Probiotic Mask",
+      "comment": "Pake ini udah 2 tahun dan ini adalah salah satu basic skincare aku!! Nyaman dipakenya ga kerasa berat, resultnya juga keliatan. Kalo ada bruntusan & bekas jerawat ini ampuh di kulitku. Belum habis sebotol aku udah repurchase ini sampe…",
+      "product": [
+        {
+          "_id": "asd1144hhh31",
+          "product": "SOMETHINC",
+          "variant": "Probiotic Mask with Aloe and Gluthatione Essence",
+          "imageUrl": "/dummycomment/comment-1.png",
+          "rate": 4
+        }
+      ]
+    },
+    {
+      "_id": "asd1144hhh4",
+      "name": "Rosalia Harahap",
+      "title": "Probiotic Mask",
+      "comment": "Pake ini udah 2 tahun dan ini adalah salah satu basic skincare aku!! Nyaman dipakenya ga kerasa berat, resultnya juga keliatan. Kalo ada bruntusan & bekas jerawat ini ampuh di kulitku. Belum habis sebotol aku udah repurchase ini sampe…",
+      "product": [
+        {
+          "_id": "asd1144hhh41",
+          "product": "LUXURIOUS",
+          "variant": "Gluthatione Essence",
+          "imageUrl": "/dummycomment/comment-2.png",
+          "rate": 3
+        }
+      ]
+    },
+    {
+      "_id": "asd1144hhh5",
+      "name": "Medelina Oktaviana",
+      "title": "Probiotic Mask",
+      "comment": "Pake ini udah 2 tahun dan ini adalah salah satu basic skincare aku!! Nyaman dipakenya ga kerasa berat, resultnya juga keliatan. Kalo ada bruntusan & bekas jerawat ini ampuh di kulitku. Belum habis sebotol aku udah repurchase ini sampe…",
+      "product": [
+        {
+          "_id": "asd1144hhh51",
+          "product": "FIRST LAB",
+          "variant": "Gluthatione Essence",
+          "imageUrl": "/dummycomment/comment-2.png",
+          "rate": 4.50
+        }
+      ]
+    }
+  ]
+}

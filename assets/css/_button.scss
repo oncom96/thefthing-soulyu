@@ -1,0 +1,30 @@
+.btn-news {
+  background: $third;
+  border: none;
+  font-family: $font-family-medium;
+  font-size: $font-size-xs;
+  color: $white;
+  border-radius: 20px;
+  padding: 10px 0;
+  text-transform: uppercase;
+  width: 160px;
+  cursor: pointer;
+}
+
+.btn-news-unfill {
+  background: none;
+  border:none ;
+  border-bottom: 1px solid $third;
+  font-family: $font-family-medium;
+  font-size: $font-size-xs;
+  color: $third;
+  padding: 10px 0;
+  text-transform: uppercase;
+  width: 160px;
+  cursor: pointer;
+}
+
+.btn-inactive {
+  background: $inactive;
+  cursor: default;
+}
