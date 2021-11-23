@@ -1,4 +1,5 @@
 FROM node:12-alpine 
+RUN apk add g++ make python 
 
 # Create app directory
 RUN mkdir -p /usr/src/app
